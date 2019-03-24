@@ -1,0 +1,8 @@
+Cucumber Cukes project steps:
+1. Dependies added : cucumber-testng , cucumber-java , cucumber-core , cucumber-picocontainer (all group id = info-cukes) , cucumber-extentsreport
+selenium-java
+
+2. Create packages :
+src/main : pages.action , pages.locators , utils
+src/test/java : runner , steps
+src/test/resources : feature , runner
